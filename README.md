@@ -108,7 +108,7 @@ def minimax(game)
 
 ## PROGRAM :
 
-```
+```python
 import time
 
 class Game:
